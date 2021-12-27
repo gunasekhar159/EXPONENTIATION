@@ -20,8 +20,11 @@ RegisterNumber: 21004955
 */
 ```
 def fun(k):
+
     print("Exponentiation of a given number:",k**2)
+
 k=int(input())
+
 fun(k)
 
 ## Output:
