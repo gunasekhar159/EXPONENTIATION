@@ -28,7 +28,7 @@ k=int(input())
 fun(k)
 
 ## Output:
-![output](EXPO.PNG)
+![output](EXP.PNG)
 
 
 ## Result:
